@@ -1,0 +1,258 @@
+@charset "ISO-8859-1";
+.bg-primary{
+	background: #009688 !important;
+}
+.nav-color{
+	background: #e2e2e2;
+}
+
+body{
+	background: #e2e2e2;
+}
+
+.display{
+	background: none;
+}
+
+.card-color{
+	background: white;
+	color: black;
+}
+
+.banner{
+	width:100%;
+	height:100vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/admin.jpg);	
+	color:white;
+	background-size: cover;
+}
+
+.card{
+	margin-left: 50px;
+	height:190px;
+}
+
+.button {
+  background-color: #009688; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover{
+	
+	background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  text-decoration: none;
+}
+
+.nav-item .nav-link{
+	color:white;
+}
+
+.admin-categories-banner{	
+
+	width:100%;
+	height:100vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/adminCategories.jpg);	
+	color:white;
+	background-size: cover;
+}
+
+.catColor{
+	background: white;
+	padding-top: 20px;
+	margin-top: 20px;
+	padding-bottom: 20px;
+}
+
+.deletehover:hover{
+	background-color: white; 
+  color: black; 
+  border: 2px solid red;
+  text-decoration: none;
+}
+
+.updatehover:hover{
+	background-color: white; 
+  color: black; 
+  border: 2px solid yellow;
+  text-decoration: none;
+}
+
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+
+.categoriesAdd{	
+
+	width:100%;
+	height:100vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/categoryAdd.webp);	
+	color:white;
+	background-size: cover;
+	margin:0px;
+}
+
+
+.rowColor{
+	background: white;
+	width:40vw;
+	margin-left:260px;
+	margin-top: 50px;
+	
+}
+
+.my-card{
+	margin-top:30px;
+	height:170px;
+	
+}
+
+.productAddBanner{
+	width:100%;
+	height:100vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/addProduct.jpg);	
+	color:white;
+	background-size: cover;
+	margin:0px;
+}
+
+.productColor{
+	background: white;
+	color: black;
+	margin-top:30px;
+	width:70vw;
+}
+
+.shopBanner{
+	width:100%;
+	height:300vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/viewShop2.jpg);	
+	color:white;
+	background-size: cover;
+	margin:0px;
+}
+
+.shopHeight{
+	margin-top: 20px;
+}
+
+.list-group a{
+	text-decoration: none;
+	color:black;
+}
+
+.list-group-item{
+	background: #009688;
+	border: 2px solid black;
+	margin-bottom: 2px;
+}
+
+.viewBanner{
+	width:100%;
+	height:150vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/viewShop2.jpg);	
+	color:white;
+	background-size: cover;
+	margin:0px;
+}
+
+.viewDetails{
+	margin-left:270px;
+	height:60vh;
+	width:60vw;
+	background: white;
+	color: black;
+}
+
+.registerBanner{
+	width:100%;
+	height:150vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/register.jpg);	
+	color:white;
+	background-size: cover;
+	margin:0px;
+}
+
+
+.registerForm{
+	padding:20px 20px;
+	color:black;
+	height: 85vh;
+	background: white;
+}
+
+.logginBanner{
+	width:100%;
+	height:150vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/login.jpg);	
+	color:white;
+	background-size: cover;
+	margin:0px;
+	
+}
+
+.loginForm{
+	padding:20px 20px;
+	color:black;
+	height: 60vh;
+	background: white;
+}
+
+.indexBanner{
+	width:100%;
+	height:150vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/login.jpg);	
+	color:white;
+	background-size: cover;
+	margin:0px;
+}
+
+.middle{
+	margin-top:200px;
+}
+
+.cartLength{
+	height:110vh;
+}
+
+.sideCart{
+	height:300px;
+}
+
+.noStyle{
+	text-decoration: none;
+	color:black;
+	
+}
+
+
+.cartBanner{
+	width:100%;
+	height:150vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/cart.jpg);	
+	color:black;
+	background-size: cover;
+	margin:0px;
+}
+
+.billingBanner{
+	width:100%;
+	height:180vh;
+	background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../images/billing.jpg);	
+	color:black;
+	background-size: cover;
+	margin:0px;
+	
+}
+
